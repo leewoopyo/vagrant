@@ -9,7 +9,11 @@ password: vagrant
 
 vagrant 계정이 암호인증 없는 sudo 권한 갖고 있습니다. 
 
-vagrant 기본명령어
+
+
+
+### vagrant 기본명령어
+
 *. Vagrantfile 이 있는 디렉토리안에서 명령을 실행해야 합니다.
 
 vagrant --help  ; 도움말 출력
