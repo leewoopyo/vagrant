@@ -15,9 +15,15 @@ vagrant 기본명령어
 vagrant --help  ; 도움말 출력
 
 vagrant init => vagrant 실행을 위한 Vagrantfile 생성
+
 vagrant up : Vagrantfile 내용을 읽고 실행
+
 vagrant status : vagrant 가상머신 상태 확인
+
 vagrant halt : vagrant 가상머신 종료
+
 vagrant destory : 설치된 vagrant 가상머신 삭제
+
 vagrant provision : Vagrantfile 에서 provision 항목 실행
+
 vagrant ssh : vagrant 가상머신으로 ssh 접속
